@@ -13,4 +13,5 @@
     "lint": "standard --fix"
   },
   "bin": "cli.js"
+  "type": "module"
 }
