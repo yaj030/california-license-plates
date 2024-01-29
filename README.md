@@ -19,12 +19,13 @@ Enter robots! Our automated friends that exist to perform exactly this kind of m
 🐢🚀 [Node.js](https://nodejs.org/en/)
 
 
-## install
+## install and run
 
 ```sh
+## Install
 npm i -g california-license-plates
 
-possible required installs (I am not sure they are all needed):
+## Possible required moduldes and other stuff (I am not sure they are all needed):
 npm install chalk
 npm audit fix --force
 npm install easy-async
@@ -32,7 +33,6 @@ npm install indent-string
 npx playwright install
 
 ## Run
-
 npx california-license-plates <query> <query> <etc>
 ```
 
