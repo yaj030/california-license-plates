@@ -1,5 +1,5 @@
-const search = require('./lib/search')
-
+//const search = require('./lib/search')
+import search from './lib/search.js'
 async function main () {
   const queries = [
     'bigshot',
