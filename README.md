@@ -1,6 +1,6 @@
 # California License Plates
 
-A tool to search the California DMV website for available custom license plate names.
+A tool to search the California DMV website for available custom license plate names. This is a branch from [Zeke's work](https://github.com/zeke/california-license-plates). Changed the require() to import to make things work. I am not a js person, I made it work but don't know exactly how.
 
 <img width="947" alt="CLI" src="https://user-images.githubusercontent.com/2289/121766364-0fc8eb00-cb06-11eb-83d5-bf86f6b2282b.png">
 
