@@ -1,4 +1,5 @@
-const search = require('./search')
+// const search = require('./search')
+import search from './search.js'
 
 async function main () {
   const queries = [
