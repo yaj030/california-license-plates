@@ -18,10 +18,21 @@ Enter robots! Our automated friends that exist to perform exactly this kind of m
 
 🐢🚀 [Node.js](https://nodejs.org/en/)
 
-## Usage
+
+## install
 
 ```sh
 npm i -g california-license-plates
+
+possible required installs (I am not sure they are all needed):
+npm install chalk
+npm audit fix --force
+npm install easy-async
+npm install indent-string
+npx playwright install
+
+## Run
+
 npx california-license-plates <query> <query> <etc>
 ```
 
